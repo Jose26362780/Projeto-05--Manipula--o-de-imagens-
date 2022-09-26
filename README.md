@@ -7,7 +7,7 @@
 
 Projeto construido no programa explorer na Rocketseat
 
-👉🏼[Clique aqui para accessar](https://jose26362780.github.io/Projeto-05/)
+
 👉🏼[Clique aqui para accessar](https://projeto-05.netlify.app/)
 
 
