@@ -1,6 +1,6 @@
 # Stage 03 Avançando no HTML e CSS
 
-![preview](./.github/projeto_05.png.png)
+![preview](./.github/projeto_05.png)
 
 
 > Trilha Explorer 
